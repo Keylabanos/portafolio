@@ -1,0 +1,105 @@
+.color-link{
+    color: white;
+}
+.section1{
+    margin-left: 30px;
+    display: flex;
+    justify-content:space-evenly;
+    background: rgb(77, 76, 76);
+
+}
+.links{
+    color: rgb(187, 214, 238);
+    text-decoration: none;
+}
+.section2{
+    width: 200px;
+    height: auto;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.paragraph{
+    width: 40vw;
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+h1{
+    color: rgb(253, 245, 245);
+    margin-left: 220px;
+}
+.color-section{
+    background: rgb(77, 76, 76);
+}
+nav{
+    height: 15vh;
+}
+.section3{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    color: rgb(59, 58, 59);
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.formacion{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: rgb(80, 77, 82);
+    font-weight: bolder;
+}
+.section4{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    color: rgb(255, 246, 255);
+    height: 25vh;
+}
+.experiencia{
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    padding-top: 50px;
+}
+.color-section3{
+    background: rgb(77, 76, 76);
+}
+.section5{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.tecnologias{
+    width: 200px;
+    height: auto;
+}
+.habilidades{
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(68, 65, 65);
+    font-weight: bolder;
+    padding-top: 50px;
+}
+.section6{
+    text-align: center;
+    background: rgb(77, 76, 76);
+    color: antiquewhite;
+    padding-bottom: 30px;
+}
+.soon{
+    width: 500px;
+    height: auto;
+    border-radius: 50%;
+}
+.proyectos{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+footer{
+    text-align: center;
+    padding-top: 50px;
+    color: gray;
+}
